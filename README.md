@@ -2,9 +2,9 @@
 
 Repositório criado para o Desafio de Projeto.
 
-## Updates
+## Last Updates
 
-- Novas anotações sobre GIT
+- Modificados varios arquivos de diversos formatos da pasta "Outra Pasta"
 
 ## Links Úteis
 
